@@ -1,0 +1,5 @@
+Computação Paralela
+Jorge Soares de Farias Júnior
+link para os arquivos implementados: https://github.com/leovaldesz/Computa-oParalela/tree/main/Threads_NumerosPrimos
+
+O tempo de execução do projeto de números primos usando uma única Thread (Versão do professor) variou um pouco se executado várias vezes, o menor encontrado foi 599ms e o maior foi 700ms. Já a versão que foi implementada utilizando 10 Threads teve uma melhora muito significativa, o menor tempo foi de 5ms e o maior foi de 7ms, com essas 10 threads a melhora foi de praticamente 100x.
